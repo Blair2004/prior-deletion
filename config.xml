@@ -1,0 +1,9 @@
+<application>
+    <name>Prior Depletion</name>
+    <namespace>prior-depletion</namespace>
+    <description>Will deplete all materials sent to the kitchen</description>
+    <author>Blair Jersyer</author>
+    <version>1.0</version>
+    <main>Module.php</main>
+    <includes>inc</includes>
+</application>
